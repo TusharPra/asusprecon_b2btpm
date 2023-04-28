@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-IN263)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-IN263)
 
-# IN263 - Onboard and Manage New Trading Partners Using SAP Integration Suite
+# Onboard and Manage New Trading Partners Using SAP Integration Suite
 
 ## Description
 
