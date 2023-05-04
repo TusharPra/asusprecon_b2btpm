@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session IN263 - Onboard and Manage New Trading Partners Using SAP Integration Suite.  
+This repository contains the material for the ASUG Pre-Conference Session - Onboard and Manage New Trading Partners Using SAP Integration Suite.  
 
 ## Overview
 
