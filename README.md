@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2022 session IN263 - On
 
 ## Overview
 
-All needed information can be found in the [pdf] (https://github.com/SAP-samples/teched2022-IN263/blob/main/IN263%20-%20Onboard%20and%20Manage%20New%20Trading%20Partners.pdf).
+All needed information can be found in the [pdf] (https://github.com/SAP-samples/teched2022-IN263/blob/main/IN263-Onboard and Manage New Trading Partners.pdf).
 
 <!--
 (https://github.com/SAP-samples/teched2022-IN263/blob/main/IN263%20-%20Onboard%20and%20Manage%20New%20Trading%20Partners.pdf). 
