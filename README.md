@@ -8,7 +8,7 @@ This repository contains the material for the ASUG Pre-Conference Session - Onbo
 
 ## Overview
 
-All needed information can be found in the [pdf](https://github.com/TusharPra/asugprecon_b2btpm/Hands_on_TPM.pdf).
+All needed information can be found in the [pdf](https://github.com/TusharPra/asugprecon_b2btpm/document/Hands_on_TPM.pdf).
 
 <!--
 (https://github.com/TusharPra/asugprecon_b2btpm/blob/main/Hands_on_TPM.pdf)
